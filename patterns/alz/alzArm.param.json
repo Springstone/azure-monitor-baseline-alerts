@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "alza"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "alza-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "alza-identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "alza-management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "alza-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzone"
+      "value": "alza-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -49,14 +49,14 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "uksouth"
         }
       }
     },
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": "action@mail.com"
+          "value": "sachana@microsoft.com"
         },
         "ResHlthUnhealthyAlertState": {
           "value": "true"
