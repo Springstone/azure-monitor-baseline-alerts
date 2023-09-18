@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "alza"
+      "value": "amba"
     },
     "platformManagementGroup": {
-      "value": "alza-platform"
+      "value": "amba-platform"
     },
     "IdentityManagementGroup": {
-      "value": "alza-identity"
+      "value": "amba-identity"
     },
     "managementManagementGroup": {
-      "value": "alza-management"
+      "value": "amba-management"
     },
     "connectivityManagementGroup": {
-      "value": "alza-connectivity"
+      "value": "amba-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "alza-landingzones"
+      "value": "amba-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
