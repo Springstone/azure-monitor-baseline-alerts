@@ -1,5 +1,10 @@
 ---
 header:
+  - name: Download Alerts
+    ref: "/azure-monitor-baseline-alerts/amba-alerts.xlsx"
+    icon: gdoc_download
+    external: true
+
   - name: Glossary
     ref: "/glossary"
     icon: gdoc_copy
