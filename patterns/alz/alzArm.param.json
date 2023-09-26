@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "amba"
+      "value": "alza"
     },
     "platformManagementGroup": {
-      "value": "amba-platform"
+      "value": "alza-platform"
     },
     "IdentityManagementGroup": {
-      "value": "amba-identity"
+      "value": "alza-identity"
     },
     "managementManagementGroup": {
-      "value": "amba-management"
+      "value": "alza-management"
     },
     "connectivityManagementGroup": {
-      "value": "amba-connectivity"
+      "value": "alza-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "amba-landingzones"
+      "value": "alza-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -41,7 +41,7 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-amba-monitor"
+          "value": "rg-alz-monitor"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
